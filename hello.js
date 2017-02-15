@@ -15,7 +15,7 @@ var o  ={
 		return this.name;
 
 	},
-	setName: function(name){
+	set: function(name){
 		this.name = name
 	}
 
