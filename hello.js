@@ -15,8 +15,9 @@ var o  ={
 		return this.name;
 
 	},
-	set: function(name){
-		this.name = name
+	set: function(name, age){
+		this.name = name;
+		this.age = age
 	}
 
 
