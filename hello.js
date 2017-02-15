@@ -6,3 +6,17 @@ var fn = function(a, b){
 		return a - b;
 }
 
+
+var o  ={
+
+	name:'longman',
+	age: 30,
+	getName: function(){
+		return this.name;
+
+	}
+
+
+
+}
+
